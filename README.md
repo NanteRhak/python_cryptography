@@ -4,7 +4,7 @@
 First, we need to install the `cryptography` module using the following method if it's not already installed:
 
 ```bash
-pip install crptography
+pip install cryptography
 ```
 
 Then run :
