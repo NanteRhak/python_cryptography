@@ -1,4 +1,4 @@
-# This is a simple & lightweight CLI-base dRSA cryptography tool in Python
+# This is a simple & lightweight CLI-based RSA cryptography tool in Python
 ### **How to use it**
 
 First, we need to install the `cryptography` module using the following method if it's not already installed:
