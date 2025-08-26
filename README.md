@@ -1,9 +1,12 @@
 # This is a simple & lightweight CLI-base dRSA cryptography tool in Python
 ### **How to use it**
-First, we need to install the ```cryptography``` module using the following method if it's not already installed:
+First, we need to install the `cryptography` module using the following method if it's not already installed:
+
 ```bash
 pip install crptography ```
+
 Then run :
+
 ```bash
 python generate_keys.py # Generate the public and private keys
 python encrypt # Encrypt the message and output it to cipher.bin
