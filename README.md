@@ -5,9 +5,11 @@ First, we need to install the `cryptography` module using the following method i
 
 ```bash
 pip install crptography
+```
 
-# Then run :
+Then run :
 
+```bash
 python generate_keys.py # Generate the public and private keys
 python encrypt # Encrypt the message and output it to cipher.bin
 python decrypt.py # Display the ciphertext in plain text
